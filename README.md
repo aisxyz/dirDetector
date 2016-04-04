@@ -1,5 +1,6 @@
 # dirDetector
 a simple crawler with multithreading to detect sensitive diretories.
+Explain: It's as a plugin, so the interface can be a little strange.
 
 # usage
 python DirDetector url [ threadAmount ]
